@@ -1,4 +1,4 @@
-cask "<CASK>" do
+cask "boron" do
   version "1.0.0"
   sha256 :no_check
   url "https://raw.githubusercontent.com/underhillota/homebrew-scaling-broccoli/main/README.md"
